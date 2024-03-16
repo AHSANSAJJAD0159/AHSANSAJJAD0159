@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AHSANSAJJAD0159
+- 👋 Hi, I’m @AHSANSAJJAD
 - 👀 I’m interested in .ARTIFICAL INTELLIGENCE..
 - 🌱 I’m currently learning ..DATA SCIENCE.
 - 💞️ I’m looking to collaborate on ...
